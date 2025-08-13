@@ -1,3 +1,3 @@
 # New Project
-This project was created for local system
-created by yash goel
+This project was created for local system.
+Created by Yash Goel
